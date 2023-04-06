@@ -1,9 +1,14 @@
-import React from 'react'
+import React from "react";
+import {
+  FaDribbbleSquare,
+  FaFacebookSquare,
+  FaGithubSquare,
+  FaInstagramSquare,
+  FaTwitterSquare,
+} from "react-icons/fa";
 
 const Footer = () => {
-  return (
-    <div>Footer</div>
-  )
-}
+  return <div>Footer</div>;
+};
 
-export default Footer
+export default Footer;
