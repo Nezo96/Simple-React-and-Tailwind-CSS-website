@@ -10,7 +10,7 @@ import FooterMenu from "./FooterMenu";
 
 const Footer = () => {
   return (
-    <div className="max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-2 gap-8 text-gray-300">
+    <div className="max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300">
       <div>
         <h1 className="uppercase w-full text-3xl font-bold text-[#00df9a]">
           react.
@@ -29,7 +29,7 @@ const Footer = () => {
           <FaDribbbleSquare size={30} />
         </div>
       </div>
-      <div className="lg:col-span3 flex flex-row justify-between">
+      <div className="lg:col-span-2 flex flex-row justify-between mt-6">
         <FooterMenu
           title={"Solutions"}
           linkOne={"Analytics"}
