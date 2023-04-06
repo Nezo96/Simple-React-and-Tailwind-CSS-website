@@ -4,7 +4,8 @@ Simple React and Tailwind CSS website (responsive) made in GitHub Codespaces ğŸ™
 
 ## Made with
 
-[Create React App](https://create-react-app.dev/docs/getting-started).
+[Create React App](https://create-react-app.dev/docs/getting-started)
+
 [Tailwind CSS](https://tailwindcss.com/docs/guides/create-react-app)ğŸ™Œ
 
 ## Dependencies:
